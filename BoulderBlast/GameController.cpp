@@ -18,7 +18,7 @@ using namespace std;
 #pragma comment(lib, "glu32")
 #endif
 
-static const int WINDOW_WIDTH = 1024; //1024;
+static const int WINDOW_WIDTH = 768; //1024;
 static const int WINDOW_HEIGHT = 768;
 
 static const int PERSPECTIVE_NEAR_PLANE = 4;

@@ -60,7 +60,7 @@ public:
 		m_score += howMuch;
 	}
 	
-    // The following should be used by only the framework, not the student
+	  // The following should be used by only the framework, not the student
 
 	bool isGameOver() const
 	{
